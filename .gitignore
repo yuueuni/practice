@@ -2,12 +2,13 @@
 **/.idea
 **/venv
 
+*.env
+
 **/.DS_store
 
 # python django
 **/__pycache__/
 **/db.sqlite3
-**/.env
 
 # java spring boot
 **/HELP.md
@@ -27,4 +28,3 @@
 
 # docker
 db_data/
-docker/**/*.env
